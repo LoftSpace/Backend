@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d19dbfb7-ebbe-4fb0-ba3b-656052035e7d" name="Changes" comment="" />
+    <list default="true" id="d19dbfb7-ebbe-4fb0-ba3b-656052035e7d" name="Changes" comment="feat: Eureka Server 생성." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +46,9 @@
   "associatedIndex": 7
 }]]></component>
   <component name="ProjectId" id="2lBWW426Xb6c1JRQP3amOuFN5qw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -71,6 +73,28 @@
       <option name="presentableId" value="Default" />
       <updated>1724653981483</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat: Eureka Server 생성">
+      <option name="closed" value="true" />
+      <created>1724654630506</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724654630506</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: Eureka Server 생성.">
+      <option name="closed" value="true" />
+      <created>1724654780403</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724654780403</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: Eureka Server 생성" />
+    <MESSAGE value="feat: Eureka Server 생성." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Eureka Server 생성." />
   </component>
 </project>
